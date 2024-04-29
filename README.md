@@ -1,1 +1,1 @@
-
+Weather App aims to address this need by offering a user-friendly interface coupled with accurate and reliable weather forecasts. In this project, we will leverage modern technologies and data sources to deliver a seamless experience for users across various platforms. From checking the current temperature in their location to planning future outdoor activities with precise weather predictions, our app will empower users with the information they need to make informed decisions.
